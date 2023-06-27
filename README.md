@@ -1,3 +1,6 @@
+NIM: 0110221079
+NAME: JUNDI MUHAMMAD AL FATIH
+
 # simple-java-maven-app
 
 This repository is for the
